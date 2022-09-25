@@ -25,4 +25,4 @@ N/A
 
 The following image shows the websites current state.
 
-!
+![Website fully functional.](./assets/images/Dons-Portfolio.png)
